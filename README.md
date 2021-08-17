@@ -1,4 +1,4 @@
-# Desafio Módulo 02
+# Desafio Módulo 02 <h1>
 * <b> Mini-projeto do Módulo 02 do curso de HTML5 e CSS3 do Curso em Vídeo </b>
   ![cursoemvideo-logo](https://user-images.githubusercontent.com/62958588/129761363-8a2bc45b-bfce-40f9-8bf5-a04bcf3c7d23.png)
  * #### Youtube: <h4> https://www.youtube.com/user/cursosemvideo
